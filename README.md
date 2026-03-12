@@ -4,7 +4,7 @@
 
 <br/>
 
-# Moon Studios
+# moon Studios
 
 **Estudio creativo especializado en desarrollo digital y experiencias únicas.**
 
@@ -32,9 +32,6 @@ Somos **Moon Studios**, un estudio creativo enfocado en construir productos digi
 |---|---|---|
 | 🤖 **Discord Bots** | Bots personalizados con slash commands, música, moderación y más | Node.js · Discord.js |
 | 🌐 **Desarrollo Web** | Landing pages, dashboards y aplicaciones web modernas | React · TypeScript · Tailwind |
-| 🔥 **Backends & APIs** | Servidores escalables con autenticación y base de datos | Node.js · Firebase · Supabase |
-| 🎨 **UI/UX Design** | Interfaces minimalistas orientadas a la experiencia de usuario | Figma · CSS · Framer Motion |
-| ⚙️ **Automatización** | Flujos de trabajo automatizados e integraciones entre plataformas | Python · Webhooks · APIs |
 
 ---
 
@@ -73,8 +70,8 @@ Somos **Moon Studios**, un estudio creativo enfocado en construir productos digi
 | Proyecto | Descripción | Estado |
 |---|---|---|
 | 🌐 **Luna NET** | Plataforma de Discord bots con dashboard web público y sistema de gestión interno | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| 📊 **LUNANET Dashboard** | Panel interno de Moon Studios: foros, calendario, contabilidad, gestión de equipo | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
-| 🎉 **Moon Studios Fest** | Sitio de registro para evento público con verificación QR y envío de correos | ![Completed](https://img.shields.io/badge/Completed-blue?style=flat-square) |
+| 📊 **moon Studios Dashboard** | Panel interno de moon Studios: foros, calendario, contabilidad, gestión de equipo | ![Active](https://img.shields.io/badge/Active-brightgreen?style=flat-square) |
+| 🎉 **moon Studios Fest** | Sitio de registro para evento público con verificación QR y envío de correos | ![Completed](https://img.shields.io/badge/Completed-blue?style=flat-square) |
 
 </div>
 
